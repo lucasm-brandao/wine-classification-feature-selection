@@ -1,0 +1,15 @@
+# Ambientes virtuais (Python)
+venv/
+env/
+.env
+
+# Lixo do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
