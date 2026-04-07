@@ -20,6 +20,9 @@ Utilizando o método `SelectKBest(chi2, k=7)`, foi possível reduzir a complexid
 | **Modelo Original** | 13 | **94.44%** |
 | **Modelo Otimizado** | 7 | **92.59%** |
 
+### Visualização do Comparativo de Acurácia:
+![alt text](image.png)
+
 ### 🧠 Conclusão
 A redução de dimensionalidade provou ser extremamente eficaz. A perda de apenas ~1.8% na acurácia é amplamente compensada pela criação de um modelo mais leve, rápido e de menor custo computacional, características essenciais para deploy em ambientes de produção de larga escala.
 
