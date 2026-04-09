@@ -27,7 +27,7 @@ Utilizando o método `SelectKBest(chi2, k=7)`, foi possível reduzir a complexid
 A redução de dimensionalidade provou ser extremamente eficaz. A perda de apenas ~1.8% na acurácia é amplamente compensada pela criação de um modelo mais leve, rápido e de menor custo computacional, características essenciais para deploy em ambientes de produção de larga escala.
 
 ## 📂 Como executar
-1. Clone o repositório: `git clone https://github.com/seu-usuario/nome-do-repo.git`
+1. Clone o repositório: `git clonehttps://github.com/lucasm-brandao/wine-classification-feature-selection`
 2. Instale as dependências: `pip install -r requirements.txt`
 3. Execute o notebook: `jupyter notebook projeto_vinhos.ipynb`
 
