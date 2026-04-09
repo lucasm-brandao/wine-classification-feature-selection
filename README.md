@@ -7,8 +7,8 @@ Comparar a performance de um modelo **Naive Bayes (GaussianNB)** utilizando o co
 
 ## 🛠️ Tecnologias Utilizadas
 * **Python 3.12**
-* [cite_start]**Pandas**: Manipulação e análise exploratória[cite: 22].
-* [cite_start]**Scikit-Learn**: Pré-processamento, modelagem e métricas[cite: 18, 51].
+* **Pandas**: Manipulação e análise exploratória[cite: 22].
+* **Scikit-Learn**: Pré-processamento, modelagem e métricas[cite: 18, 51].
 * **Matplotlib/Seaborn**: Visualização de dados.
 
 ## 📈 Resultados Obtidos
