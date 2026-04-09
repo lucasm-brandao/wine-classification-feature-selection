@@ -32,4 +32,4 @@ A redução de dimensionalidade provou ser extremamente eficaz. A perda de apena
 3. Execute o notebook: `jupyter notebook projeto_vinhos.ipynb`
 
 ---
-Desenvolvido por [Lucas de Moraes Brandão](https://www.linkedin.com/in/lucas-mbrandao/) - Estudante de Ciência da Computação @ **UFRJ**.
+Desenvolvido por [Lucas de Moraes Brandão](https://www.linkedin.com/in/lucas-mbrandao/) - Estudante de Ciência da Computação **UFRJ**.
